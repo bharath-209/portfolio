@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bharath-portfolio/static/css/main.9ac2fc52.css",
+    "main.js": "/bharath-portfolio/static/js/main.4cf7902c.js",
+    "static/media/Resume.pdf": "/bharath-portfolio/static/media/Resume.61c1512bb92b858a40b0.pdf",
+    "static/media/anime.png": "/bharath-portfolio/static/media/anime.0378d8167b2ebcb2b83c.png",
+    "static/media/digitalclock.png": "/bharath-portfolio/static/media/digitalclock.7bd31274c6e28b041059.png",
+    "static/media/portfolio.png": "/bharath-portfolio/static/media/portfolio.12e58cf7a7870f59b2e0.png",
+    "static/media/password.png": "/bharath-portfolio/static/media/password.48abebd05a8804acb8fa.png",
+    "static/media/crud.png": "/bharath-portfolio/static/media/crud.26c5ac3770a6fa7b43ad.png",
+    "static/media/notepad.png": "/bharath-portfolio/static/media/notepad.06d4f8c9faf9b2291e9e.png",
+    "index.html": "/bharath-portfolio/index.html",
+    "main.9ac2fc52.css.map": "/bharath-portfolio/static/css/main.9ac2fc52.css.map",
+    "main.4cf7902c.js.map": "/bharath-portfolio/static/js/main.4cf7902c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac2fc52.css",
+    "static/js/main.4cf7902c.js"
+  ]
+}
