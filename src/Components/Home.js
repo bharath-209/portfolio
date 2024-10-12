@@ -1,11 +1,11 @@
 import React from 'react';
 import Lottie from  "lottie-react";
-import me from "../LottieFiles/me.json";
+import home from "../LottieFiles/home.json";
 import Typed from "./Typed.js";
 import Tilt from 'react-parallax-tilt';
 import { CiMusicNote1 } from 'react-icons/ci';
 import { CiHeadphones } from 'react-icons/ci'; 
-import music from "../LottieFiles/music.json";
+import home2 from "../LottieFiles/home2.json";
 
 const Home = () => {
   return (
@@ -20,7 +20,7 @@ const Home = () => {
 
         <Lottie 
           className="illustration" 
-          animationData={me} 
+          animationData={home} 
           loop={true} 
         />
         
@@ -43,7 +43,7 @@ const Home = () => {
         <Tilt>
         <Lottie 
           className="illustration" 
-          animationData={music} 
+          animationData={home2} 
           loop={true} 
         />
         </Tilt>

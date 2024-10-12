@@ -13,9 +13,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     NotePadGithub : "https://github.com/VenkataRathnam3523/Note",
     NotePadWebsite : "https://venkatarathnam3523.github.io/Note/",
 
-    AnimePageDesc:"The anime page invites users to 'Embark on Your Legendary Journey,' showcasing dynamic characters in a fantasy world where heroes clash, offering adventure, battles, and an immersive experience.",
-    AnimePageGithub:"https://github.com/VenkataRathnam3523/animatedpage",
-    AnimePageWebsite:"https://venkatarathnam3523.github.io/animatedpage/",
+    Invoice_GenerationDesc:"The anime page invites users to 'Embark on Your Legendary Journey,' showcasing dynamic characters in a fantasy world where heroes clash, offering adventure, battles, and an immersive experience.",
+    Invoice_GenerationGithub:"https://github.com/bharath-209/invoice-generation.git/",
+    Invoice_GenerationWebsite:"https://bharath-209.github.io/invoice-generation/",
     
     PasswordDesc:"A strong password is a complex, unique combination of letters (both uppercase and lowercase), numbers, and symbols, with a length of at least 12 characters, ensuring resilience against brute force attacks.",
     PasswordGithub:"https://github.com/VenkataRathnam3523/password",

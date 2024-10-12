@@ -2,7 +2,7 @@ import React from 'react';
 import Skills from './Skills.js';
 import Tilt from 'react-parallax-tilt';
 import Lottie from "lottie-react"
-import rasi from '../LottieFiles/rasi.json';
+import about from '../LottieFiles/about.json';
 
 const About = () => {
   return (
@@ -25,7 +25,7 @@ const About = () => {
           <Tilt>
               <Lottie 
               className="illustration" 
-              animationData={rasi} 
+              animationData={about} 
               loop={true} 
             />
           </Tilt>
@@ -46,7 +46,7 @@ const About = () => {
         <Skills skill='Github' />
         <Skills skill='Javascript' />
         <Skills skill='Bootstrap'/>
-        <Skills skill='Material UI'/>
+        <Skills skill='MaterialUI'/>
         {/* <Skills skill='Postman' />
         <Skills skill='Figma' /> */}
       </div>

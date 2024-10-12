@@ -1,7 +1,7 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
 import notepad from '../images/notepad.png';
-import anime from '../images/anime.png';
+import Invoice from '../images/Invoice.png';
 import password from '../images/password.png';
 import digitalclock from '../images/digitalclock.png';
 import crud from '../images/crud.png';
@@ -14,7 +14,7 @@ const Projects = () => {
       <div className='project'>
         <ProjectBox projectPhoto={digitalclock} projectName="DigitalClock" />
         <ProjectBox projectPhoto={notepad} projectName="NotePad" />
-        <ProjectBox projectPhoto={anime} projectName="AnimePage" />
+        <ProjectBox projectPhoto={Invoice} projectName="Invoice_Generation" />
         <ProjectBox projectPhoto={password} projectName="Password" />
         <ProjectBox projectPhoto={crud} projectName="CRUDoperation" />
         <ProjectBox projectPhoto={portfolio} projectName="Portfolio" />

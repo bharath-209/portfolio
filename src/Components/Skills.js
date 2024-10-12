@@ -1,7 +1,7 @@
 import React from 'react'; 
 import { FaReact, FaGitAlt, FaGithub, FaFigma, FaBootstrap, FaCss3Alt} from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
-import {SiPostman,  SiMysql} from "react-icons/si";
+import {SiPostman,  SiMysql, SiMaterialdesign, SiMaterialdesignicons, SiMui} from "react-icons/si";
 import { DiJava } from "react-icons/di";
 import { BiLogoSpringBoot } from "react-icons/bi";
 import { FaHtml5 } from "react-icons/fa6";
@@ -20,6 +20,7 @@ const Skills = ({ skill }) => {
         Github: <FaGithub />,
         Figma: <FaFigma />,
         Bootstrap: <FaBootstrap />,
+        MaterialUI: <SiMui/>
     };
     
     return (
