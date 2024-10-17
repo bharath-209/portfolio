@@ -5,29 +5,29 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-    DigitalClockDesc : "A digital clock displays time with numerical digits, often featuring LED or LCD screens. It typically shows hours, minutes, and sometimes seconds, providing an accurate, clear, and modern way to track time.",
-    DigitalClockGithub : "https://github.com/VenkataRathnam3523/digitalclock",
-    DigitalClockWebsite : "https://venkatarathnam3523.github.io/digitalclock/",
+    Login_PageDesc : "A simple and user-friendly login page with clear input fields and a prompt for new users to sign up.",
+    Login_PageGithub : "https://github.com/bharath-209/login-page.git",
+    Login_PageWebsite : " https://bharath-209.github.io/login-page/",
 
     NotePadDesc : "Notepad is a basic text editor used to create and edit plain text files. It offers minimal formatting options, making it simple and lightweight, ideal for quick notes or coding tasks.",
-    NotePadGithub : "https://github.com/VenkataRathnam3523/Note",
-    NotePadWebsite : "https://venkatarathnam3523.github.io/Note/",
+    NotePadGithub : "https://github.com/bharath-209/notes.git",
+    NotePadWebsite : "https://bharath-209.github.io/notes/",
 
-    Invoice_GenerationDesc:"The anime page invites users to 'Embark on Your Legendary Journey,' showcasing dynamic characters in a fantasy world where heroes clash, offering adventure, battles, and an immersive experience.",
+    Invoice_GenerationDesc:"The provided invoice page clearly outlines billing and shipping details, itemized products with prices, taxes, and total amount due, including a signature and terms for payment.",
     Invoice_GenerationGithub:"https://github.com/bharath-209/invoice-generation.git/",
     Invoice_GenerationWebsite:"https://bharath-209.github.io/invoice-generation/",
     
-    PasswordDesc:"A strong password is a complex, unique combination of letters (both uppercase and lowercase), numbers, and symbols, with a length of at least 12 characters, ensuring resilience against brute force attacks.",
-    PasswordGithub:"https://github.com/VenkataRathnam3523/password",
-    PasswordWebsite:"https://github.com/VenkataRathnam3523/password",
+    // PasswordDesc:"A strong password is a complex, unique combination of letters (both uppercase and lowercase), numbers, and symbols, with a length of at least 12 characters, ensuring resilience against brute force attacks.",
+    // PasswordGithub:"https://github.com/VenkataRathnam3523/password",
+    // PasswordWebsite:"https://github.com/VenkataRathnam3523/password",
 
-    CRUDoperationDesc:"CRUD operations are essential for managing data within applications and databases. Create involves adding new data entries, Read focuses on retrieving and displaying existing information, Update allows for modifying or changing data, and Delete removes data that is no longer needed. Together, these operations enable the full lifecycle management of data, ensuring it can be effectively maintained and utilized.",
-    CRUDoperationGithub:"https://github.com/VenkataRathnam3523/CRUDproject",
-    CRUDoperationWebsite:"https://venkatarathnam3523.github.io/CRUDproject/",
+    Reports_GenerationDesc:"The above page is part of a Report Generation System for a law firm, displaying bank details filtered based on selected criteria such as bank name, branch, status, and date range. Users can open the filter drawer to apply or clear filters and view relevant bank information accordingly.",
+    Reports_GenerationGithub:"https://github.com/bharath-209/report.git",
+    Reports_GenerationWebsite:"https://bharath-209.github.io/report/",
 
     PortfolioDesc:"A dynamic portfolio showcasing diverse skills and accomplishments, including design, development, and creative problem-solving. Highlights innovative projects, strong work ethic, and dedication to continuous growth in various fields.",
-    PortfolioGithub:"https://github.com/VenkataRathnam3523/portfolio",
-    PortfolioWebsite:"https://venkatarathnam3523.github.io/portfolio/",
+    PortfolioGithub:"https://github.com/bharath-209/portfolio.git",
+    PortfolioWebsite:"https://bharath-209.github.io/portfolio//",
 
   }
 

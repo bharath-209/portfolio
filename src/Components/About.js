@@ -35,10 +35,6 @@ const About = () => {
       
       <h1 className='SkillsHeading'>Professional Skillset</h1>
       <div className='skills'>
-        
-        {/* <Skills skill='Java' />
-        <Skills skill='MySql' />
-        <Skills skill='SpringBoot'/> */}
         <Skills skill='HTML'/>
         <Skills skill='CSS'/>
         <Skills skill='React' />
@@ -47,8 +43,6 @@ const About = () => {
         <Skills skill='Javascript' />
         <Skills skill='Bootstrap'/>
         <Skills skill='MaterialUI'/>
-        {/* <Skills skill='Postman' />
-        <Skills skill='Figma' /> */}
       </div>
     </>
   )

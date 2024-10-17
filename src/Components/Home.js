@@ -3,8 +3,6 @@ import Lottie from  "lottie-react";
 import home from "../LottieFiles/home.json";
 import Typed from "./Typed.js";
 import Tilt from 'react-parallax-tilt';
-import { CiMusicNote1 } from 'react-icons/ci';
-import { CiHeadphones } from 'react-icons/ci'; 
 import home2 from "../LottieFiles/home2.json";
 
 const Home = () => {
