@@ -1,7 +1,7 @@
 import React from 'react';
 import {FaGithub, FaLinkedin} from "react-icons/fa";
 import {GrMail} from "react-icons/gr";
-import {SiLeetcode} from "react-icons/si"
+// import {SiLeetcode} from "react-icons/si"
 
 const Footer = () => {
   return (
