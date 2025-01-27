@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bharath-209/portfolio.git/static/css/main.9ac2fc52.css",
-    "main.js": "/bharath-209/portfolio.git/static/js/main.b2f72c4b.js",
-    "static/media/Invoice.png": "/bharath-209/portfolio.git/static/media/Invoice.adef98262339e4398b45.png",
-    "static/media/Reports.png": "/bharath-209/portfolio.git/static/media/Reports.1d5c91907dfeb489d92f.png",
-    "static/media/portfolio.png": "/bharath-209/portfolio.git/static/media/portfolio.4471f1ae09cf5449fa8c.png",
-    "static/media/Resume.pdf": "/bharath-209/portfolio.git/static/media/Resume.9010d9b76810a42afe6c.pdf",
-    "static/media/login.png": "/bharath-209/portfolio.git/static/media/login.ae2c9101aa0b5d910807.png",
-    "static/media/notepad.png": "/bharath-209/portfolio.git/static/media/notepad.06d4f8c9faf9b2291e9e.png",
-    "index.html": "/bharath-209/portfolio.git/index.html",
-    "main.9ac2fc52.css.map": "/bharath-209/portfolio.git/static/css/main.9ac2fc52.css.map",
-    "main.b2f72c4b.js.map": "/bharath-209/portfolio.git/static/js/main.b2f72c4b.js.map"
+    "main.css": "/bharath-209/portfolio/static/css/main.9ac2fc52.css",
+    "main.js": "/bharath-209/portfolio/static/js/main.ba7713ca.js",
+    "static/media/Invoice.png": "/bharath-209/portfolio/static/media/Invoice.adef98262339e4398b45.png",
+    "static/media/Reports.png": "/bharath-209/portfolio/static/media/Reports.1d5c91907dfeb489d92f.png",
+    "static/media/portfolio.png": "/bharath-209/portfolio/static/media/portfolio.4471f1ae09cf5449fa8c.png",
+    "static/media/Resume.pdf": "/bharath-209/portfolio/static/media/Resume.9010d9b76810a42afe6c.pdf",
+    "static/media/login.png": "/bharath-209/portfolio/static/media/login.ae2c9101aa0b5d910807.png",
+    "static/media/notepad.png": "/bharath-209/portfolio/static/media/notepad.06d4f8c9faf9b2291e9e.png",
+    "index.html": "/bharath-209/portfolio/index.html",
+    "main.9ac2fc52.css.map": "/bharath-209/portfolio/static/css/main.9ac2fc52.css.map",
+    "main.ba7713ca.js.map": "/bharath-209/portfolio/static/js/main.ba7713ca.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac2fc52.css",
-    "static/js/main.b2f72c4b.js"
+    "static/js/main.ba7713ca.js"
   ]
 }
